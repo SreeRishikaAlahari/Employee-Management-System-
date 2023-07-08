@@ -1,6 +1,6 @@
 Hi I am Sree Rishika Alahari, 3rd year Student and an Intern at INFOTRIXS.
 
-# Week 1:
+## Week 1:
 Task-
 ❖ Build a Simple Employee Management System
 Description:
@@ -10,7 +10,7 @@ Java classes and file handling for data storage
 ➔ Implement functionalities such as employee CRUD operations, data
 validation, and basic search functionality.
 
-# Employee Management System
+## Employee Management System
 
 The Employee Management System is a command-line-based application built using core Java classes and file handling for data storage. It allows users to perform CRUD operations on employee information, including adding, viewing, updating, and deleting records. The system also includes data validation and basic search functionality.
 
