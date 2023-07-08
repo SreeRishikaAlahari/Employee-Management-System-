@@ -1,4 +1,4 @@
-Hi I am Sree Rishika Alahari, 3rd year Student and an Intern at INFOTRIXS.
+I am Sree Rishika Alahari, a dedicated 3rd-year student and Intern at INFOTRIXS, As a student and intern, I bring a strong commitment to professionalism, excellence, and innovation to this project. I have carefully designed the system with a focus on reliability, scalability, and ease of use, ensuring a seamless experience for managing employee records.
 
 ## Week 1:
 Task-
