@@ -1,6 +1,6 @@
 Hi I am Sree Rishika Alahari, 3rd year Student and an Intern at INFOTRIXS.
 
-Week 1:
+# Week 1:
 Task-
 ❖ Build a Simple Employee Management System
 Description:
